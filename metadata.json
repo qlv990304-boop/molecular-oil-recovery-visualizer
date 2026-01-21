@@ -1,0 +1,5 @@
+{
+  "name": "Molecular Oil Recovery Visualizer",
+  "description": "An educational tool utilizing Gemini to visualize and explain Ji Bingyu's Molecular Oil Recovery principles through AI-generated diagrams and text.",
+  "requestFramePermissions": []
+}
